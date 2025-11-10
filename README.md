@@ -37,15 +37,3 @@ It uses advanced deep learning models to generate smooth and expressive facial m
 | Text-to-Speech | Coqui TTS |
 | Image Enhancement | GFPGAN / RestoreFormer |
 | Language | Python |
-
----
-
-## ⚙️ Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/Ouma122456/Talking-Face-Generator-using-SadTalker.git
-cd talking-face-generator
-
-
-
